@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @TekChandraTmg
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning MERN 
-
-<!---
-TekChandraTmg/TekChandraTmg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello there! I'm Tek Chandra Tamang, a dedicated SEO Expert by Profession and Programmer with a passion for crafting effective digital strategies. 🚀
+- 👨‍💻 As a seasoned programmer, I thrive on turning innovative ideas into functional code.
+- 🤝 I'm enthusiastic about collaborating with fellow coders, bringing my unique blend of programming skills and SEO insights to the table.
+- 🤖 Let's team up to create impactful digital solutions that not only perform -flawlessly but also rank high and attract the right audience.
+- 📈 Here, you can See my Portfolio.
