@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **SEO, SMM, SEM, Content Marketing, Flutter**
+- 💬 Ask me about **SEO, SMM, SEM, Content Marketing**
 
 - 📫 How to reach me **tekchandratamangcollab@gmail.com**
 
