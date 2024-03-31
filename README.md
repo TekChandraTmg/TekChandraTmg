@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **SEO, SMM, SEM, Content Marketing**
-- 💬 I Offer Quality Services related to **SEO, SMM, SEM, Content Marketing**
+- 💬 I Offer Result Proven Services related to **SEO, SMM, SEM, Content Marketing**
 
 - 📫 How to reach me **tekchandratmg89@gmail.com**
 
