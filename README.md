@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Tek Chandra Tamang</h1>
-<h3 align="left">SEO Expert & Digital Marketer by Profession | Coding Enthusiast</h3>
+<h3 align="left">SEO Specialist & Digital Marketer by Profession | Coding Enthusiast</h3>
 
 - 🔭 I’m currently working on **Personal Projects**
 
